@@ -1,3 +1,0 @@
-[submodule "gitsub"]
-	path = gitsub
-	url = git@github.com:HyundongHwang/gitsubmodule.git
